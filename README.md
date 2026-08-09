@@ -1,6 +1,6 @@
-# Iris Flower Classification 🌸
+# Iris Flower Classification
 
-## CodeAlpha Data Science Internship — Task 1
+## CodeAlpha Data Science Internship-Task 1
 
 ### Project Overview
 
@@ -52,5 +52,5 @@ The project demonstrates how machine learning can be used to classify Iris flowe
 
 ### Internship
 
-**CodeAlpha Data Science Internship — Task 1**
+**CodeAlpha Data Science Internship-Task 1**
 
